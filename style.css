@@ -1,0 +1,28 @@
+
+
+
+@media (min-width: 992px) and (max-width: 1199.98px)
+ { 
+ background-position: center;
+ }
+
+  html {
+    scroll-behavior: smooth;
+  }
+  html,body{
+    background-image: url('http://getwallpapers.com/wallpaper/full/a/5/d/544750.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100%;
+    font-family: 'Numans', sans-serif;
+    }
+    .sticky {
+        position: fixed;
+        top: 0;
+        width: 100%;
+      }
+      
+     
+    
+
+  
